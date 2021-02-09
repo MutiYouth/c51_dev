@@ -465,26 +465,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -968,26 +968,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -1471,26 +1471,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -1974,26 +1974,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -2477,26 +2477,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -2980,26 +2980,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -3483,26 +3483,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -3986,26 +3986,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -4489,26 +4489,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -4992,26 +4992,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -5037,7 +5037,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 11</TargetName>
+      <TargetName>Target 11  temperature</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -5076,7 +5076,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target11_ temperature</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -5495,26 +5495,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -5998,26 +5998,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -6501,26 +6501,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -7004,26 +7004,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -7507,26 +7507,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -8010,26 +8010,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -8513,26 +8513,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
@@ -9016,26 +9016,26 @@
         </Group>
         <Group>
           <GroupName>Source Group 10  eprom iic</GroupName>
-          <Files>
-            <File>
-              <FileName>main_10.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\main_10.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\src\10\i2c.c</FilePath>
-            </File>
-            <File>
-              <FileName>i2c.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\src\10\i2c.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11</GroupName>
+          <GroupName>Source Group 11  temperature</GroupName>
+          <Files>
+            <File>
+              <FileName>main_11.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\main_11.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\11_temperature\temp.c</FilePath>
+            </File>
+            <File>
+              <FileName>temp.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\11_temperature\temp.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 12</GroupName>
