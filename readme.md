@@ -9,7 +9,7 @@
 
 ## demos
 ### 温度传感器的读取
-![](doc/imgs/demo of temperature.jpg)
+![温度传感器读取的效果](doc/imgs/demo of temperature.jpg)
 
 
 
