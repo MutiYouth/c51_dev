@@ -25,7 +25,6 @@ sbit LSB=P2^3;
 sbit LSC=P2^4;
 
 
-char num=0;
 u8 DisplayData[8];
 u8 code smgduan11[10]={0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x6f};
 
@@ -101,7 +100,7 @@ void DigDisplay11()
 }
 
 
-void main()
+void main11()
 {	
 	while(1)
 	{

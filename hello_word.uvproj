@@ -464,10 +464,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -487,19 +504,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -967,10 +1049,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -990,19 +1089,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -1470,10 +1634,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -1493,19 +1674,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -1973,10 +2219,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -1996,19 +2259,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -2476,10 +2804,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -2499,19 +2844,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -2979,10 +3389,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -3002,19 +3429,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -3482,10 +3974,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -3505,19 +4014,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -3985,10 +4559,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -4008,19 +4599,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -4488,10 +5144,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -4511,19 +5184,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -4991,10 +5729,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -5014,19 +5769,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -5494,10 +6314,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -5517,19 +6354,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -5540,7 +6442,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 12</TargetName>
+      <TargetName>Target 12 clock</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -5579,7 +6481,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target12_clock</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -5997,10 +6899,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -6020,19 +6939,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -6043,7 +7027,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 13</TargetName>
+      <TargetName>Target 13 Infrared</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -6082,7 +7066,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target13_Infrared</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -6500,10 +7484,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -6523,19 +7524,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -6546,7 +7612,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 14</TargetName>
+      <TargetName>Target 14 adc</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -6585,7 +7651,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target14_adc</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -7003,10 +8069,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -7026,19 +8109,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -7049,7 +8197,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 15</TargetName>
+      <TargetName>Target 15 dac</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -7088,7 +8236,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target16_lcd1602</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -7506,10 +8654,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -7529,19 +8694,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -7552,7 +8782,7 @@
       </Groups>
     </Target>
     <Target>
-      <TargetName>Target 16</TargetName>
+      <TargetName>Target 16 lcd1602</TargetName>
       <ToolsetNumber>0x0</ToolsetNumber>
       <ToolsetName>MCS-51</ToolsetName>
       <uAC6>0</uAC6>
@@ -7591,7 +8821,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>target9_timer</OutputName>
+          <OutputName>target16_lcd1602</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -8009,10 +9239,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -8032,19 +9279,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -8512,10 +9824,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -8535,19 +9864,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
@@ -9015,10 +10409,27 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 10  eprom iic</GroupName>
+          <GroupName>Source Group 10 eprom iic</GroupName>
+          <Files>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\10\i2c.h</FilePath>
+            </File>
+            <File>
+              <FileName>main_10.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\10\main_10.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 11  temperature</GroupName>
+          <GroupName>Source Group 11 temperature</GroupName>
           <Files>
             <File>
               <FileName>main_11.c</FileName>
@@ -9038,19 +10449,84 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 12</GroupName>
+          <GroupName>Source Group 12 clock</GroupName>
+          <Files>
+            <File>
+              <FileName>ds1302.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\ds1302.c</FilePath>
+            </File>
+            <File>
+              <FileName>main12_clock.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\12_clock\main12_clock.c</FilePath>
+            </File>
+            <File>
+              <FileName>ds1302.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\12_clock\ds1302.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 13</GroupName>
+          <GroupName>Source Group 13 Infrared</GroupName>
+          <Files>
+            <File>
+              <FileName>main13_Infrared.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\13_Infrared\main13_Infrared.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 14</GroupName>
+          <GroupName>Source Group 14 adc</GroupName>
+          <Files>
+            <File>
+              <FileName>main_14_ad.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\main_14_ad.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.c</FilePath>
+            </File>
+            <File>
+              <FileName>XPT2046.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\14_AD模数转换\XPT2046.h</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 15</GroupName>
+          <GroupName>Source Group 15 dac</GroupName>
+          <Files>
+            <File>
+              <FileName>main15_da.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\15_DA数模转换\main15_da.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
-          <GroupName>Source Group 16</GroupName>
+          <GroupName>Source Group 16 lcd1602</GroupName>
+          <Files>
+            <File>
+              <FileName>lcd.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\16_LCD1602\lcd.h</FilePath>
+            </File>
+            <File>
+              <FileName>main16_lcd1602.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\16_LCD1602\main16_lcd1602.c</FilePath>
+            </File>
+          </Files>
         </Group>
         <Group>
           <GroupName>Source Group 17</GroupName>
